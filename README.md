@@ -16,8 +16,9 @@ Hi there! I'm Felix, a **dedicated Junior Java Developer** with a strong foundat
 > 💬 *“It’s all risky.”*  
 > I believe that growth comes from stepping into the unknown—whether it's debugging a stubborn error or tackling a new framework.
 
----
-
+------
+You can reach me thro my github account (https//github.com/f
+-e-l-0
 ## 🛠️ Tech Stack
 
 **Languages:**  
