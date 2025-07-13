@@ -43,6 +43,6 @@ You can reach me thro my github account (https//github.com/f
 
 ## ⚡ Quick Quote
 
-> *“It’s all risky. The moment you were born, it got risky. So why not go all in and chase your dreams?”*
+> *“It’s all risky. The moment you were born, it got risky. So why not go all in a dogecoin and chase your dreams?”*
 
 Thanks for stopping by. Happy coding! 🚀
