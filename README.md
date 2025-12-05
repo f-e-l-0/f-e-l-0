@@ -22,7 +22,7 @@ You can reach me thro my github account (https//github.com/f
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` • `SQL` • `HTML` • `CSS`
+`Java` • 
 
 **Tools & Frameworks:**  
 `IntelliJ IDEA` • `Git & GitHub` • `JDBC` • `Spring Boot` (learning)
@@ -37,8 +37,7 @@ You can reach me thro my github account (https//github.com/f
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
 | 🏧 **ATM Simulation** | A console-based ATM system with secure login and transaction handling | Java, OOP |
-| 📝 **To-Do List Manager** | CLI app to create, update, and delete tasks with file storage | Java, File I/O |
-| 🎓 **Student Grade Book** | Manage and view student records and grades | Java, Arrays |
+| 📝 **To-Do List Manager** | CLI app to create, update, and delete tasks with file storage | Java, File I/O
 
 
 ## ⚡ Quick Quote
