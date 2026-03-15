@@ -4,9 +4,9 @@
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 
-Hi there! I'm Felix, a **dedicated Junior Java Developer** with a strong foundation in **object-oriented programming**, a growing command of **backend development**, and a hunger to solve real-world problems using clean and efficient code.
+Hi there! I'm Felix, a  dedicated Junior Java Developer with a strong foundation in object-oriented programming , a growing command of backend development , and a hunger to solve real-world problems using clean and efficient code.
 
 - 🔭 I’m currently working on personal Java projects to strengthen my backend skills.
 - 🌱 I’m learning **Spring Boot**, **MySQL**, **Git**, and **RESTful APIs**.
@@ -22,10 +22,10 @@ You can reach me thro my github account (https//github.com/f
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` • 
+`Java` • c++ , c
 
 **Tools & Frameworks:**  
-`IntelliJ IDEA` • `Git & GitHub` • `JDBC` • `Spring Boot` (learning)
+`IntelliJ IDEA` • `Git & GitHub` • `JDBC` • `Spring Boot` (learning) .'RabbitMQ'(learning)
 
 **Core Concepts:**  
 `OOP` • `Exception Handling` • `Collections Framework` • `MVC` • `CRUD Operations`
@@ -38,6 +38,7 @@ You can reach me thro my github account (https//github.com/f
 |--------|-------------|-----------|
 | 🏧 **ATM Simulation** | A console-based ATM system with secure login and transaction handling | Java, OOP |
 | 📝 **To-Do List Manager** | CLI app to create, update, and delete tasks with file storage | Java, File I/O
+|**Blood Connect**|this application help the recipients find their donors easily
 
 
 ## ⚡ Quick Quote
