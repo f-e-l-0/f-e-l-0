@@ -24,9 +24,13 @@ Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/felix-odero-4b5b81350) · f
 **Languages** Java  · C++ · SQL
 
 **Frameworks** Spring Boot · Spring MVC · Spring Cloud · Spring Security · Hibernate
+
 **Data** PostgreSQL · MySQL · MongoDB · Oracle
+
 **APIs** REST · gRPC · GraphQL · OpenAPI/Swagger
+
 **Testing** JUnit · Mockito · Testify · Integration testing
+
 **Tooling** Git · Maven · Linux · IntelliJ IDEA
 
 ---
