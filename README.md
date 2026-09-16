@@ -21,7 +21,8 @@ Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/felix-odero-4b5b81350) · f
 
 ## Stack
 
-**Languages** Java · Go · C++ · SQL
+**Languages** Java  · C++ · SQL
+
 **Frameworks** Spring Boot · Spring MVC · Spring Cloud · Spring Security · Hibernate
 **Data** PostgreSQL · MySQL · MongoDB · Oracle
 **APIs** REST · gRPC · GraphQL · OpenAPI/Swagger
@@ -32,4 +33,4 @@ Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/felix-odero-4b5b81350) · f
 
 ## Currently
 
-Going deeper on distributed systems — consistency models, failure modes, and the design trade-offs that only show up at scale. Open to backend engineering roles and to collaborating on anything interesting in the Java or Go ecosystem.
+Going deeper on distributed systems — consistency models, failure modes, and the design trade-offs that only show up at scale. Open to backend engineering roles and to collaborating on anything interesting in the Java 
