@@ -14,7 +14,7 @@ Nairobi, Kenya · [LinkedIn](https://linkedin.com/in/felix-odero-4b5b81350) · f
 - **APIs** — REST first, with gRPC and GraphQL where the call pattern justifies them. Documented with OpenAPI so consumers never have to ask me how the contract works.
 - **Data layer** — relational modelling in PostgreSQL and MySQL, Hibernate tuning, and knowing when *not* to reach for an ORM.
 - **Testing** — JUnit and Mockito as a default habit, not a cleanup phase.
--**spring security** - configuring fine-grained, stateless authentication and authorization using Spring Security with JWT/OAuth2 (Resource Server & Authorization Server patterns), custom security filters, and RBAC/ABAC models.
+- **spring security** - configuring fine-grained, stateless authentication and authorization using Spring Security with JWT/OAuth2 (Resource Server & Authorization Server patterns), custom security filters, and RBAC/ABAC models.
 ---
 
 
